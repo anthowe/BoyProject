@@ -1,0 +1,1130 @@
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 0
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/2dSideScroller/Textures/2DBackground.uasset" 2
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 3
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 4
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Aim_Space_Hip.uasset" 5
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 6
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 7
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 8
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 9
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 10
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 11
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Death_3.uasset" 12
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Death_Ironsights_1.uasset" 13
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Death_Ironsights_2.uasset" 14
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 15
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 16
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 17
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 18
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Hit_React_4.uasset" 19
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Idle_Pistol.uasset" 20
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 21
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 22
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Prone_Death_1.uasset" 23
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Prone_Death_2.uasset" 24
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Prone_Fire_1.uasset" 25
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Prone_Fire_2.uasset" 26
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Prone_Idle.uasset" 27
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 28
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 29
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Prone_To_Stand.uasset" 30
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Reload_Pistol.uasset" 31
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 32
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 33
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 34
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 35
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 36
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 37
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Stand_To_Prone.uasset" 38
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 39
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 40
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 41
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Idle_PhysicsAsset.uasset" 42
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Walking_Skeleton.uasset" 43
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Idle.uasset" 44
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Shooting_Arrow_PhysicsAsset.uasset" 45
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Shooting_Arrow.uasset" 46
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Shooting_Arrow__1_.uasset" 47
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Walking__1_.uasset" 48
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Basic_Locomotion_Pack/idle.uasset" 49
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Basic_Locomotion_Pack/jump.uasset" 50
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Basic_Locomotion_Pack/left_turn_90.uasset" 51
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Basic_Locomotion_Pack/right_turn_90.uasset" 52
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Maps/Background_Sprite.uasset" 53
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Meshes/CubeMaterial.uasset" 54
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Meshes/Ramp_Mesh.uasset" 55
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Geometry/Meshes/CubeMaterial.uasset" 56
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Geometry/Meshes/1M_Cube.uasset" 57
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 58
+"../../../Engine/Content/EngineResources/Black.uasset" 59
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/Masters/M_Trans_Sprite_SubUV_Master_DepthFade.uasset" 60
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Smoke/T_Smoke_subUV_01.uasset" 61
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/Smoke/M_Smoke_02_Trans_6X6_INST.uasset" 62
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Ambient/Fog/P_Dust_groundCoat.uasset" 63
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Ambient/Fog/P_Dust_light.uasset" 64
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/Masters/M_Trans_Sprite_SubUV_Master.uasset" 65
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Env/T_LeafFlip_6X6_01.uasset" 66
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/Env/M_LeafFlip_Trans_6X6_INST.uasset" 67
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Ambient/leaves/P_DeadLeaves_Blow_Loop.uasset" 68
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Ambient/leaves/P_DeadLeaves_Blow_Masked_FIX.uasset" 69
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/Masters/M_Add_Sprite_Master.uasset" 70
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Gradient/T_starFlare_03.uasset" 71
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/Gradient/M_Flare_04_INST.uasset" 72
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Ambient/UI_MainMenu/P_UserDestination.uasset" 73
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Tile/T_Black_32.uasset" 74
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/Masters/M_Trans_Sprite_Master_DepthFade.uasset" 75
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Liquid/T_bloodTest_4X6.uasset" 76
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST.uasset" 77
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Ambient/Water/P_Water_Fountain_Splash_01.uasset" 78
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Ambient/Water/P_Water_Fountain_Splash_Base_01.uasset" 79
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Env/T_Plains_Fountain_Water_01.uasset" 80
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/Liquid/M_Water_fountain_01.uasset" 81
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_Plains_Fountain_02.uasset" 82
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/Masters/M_Opaque_MeshEmit_Emis_Master.uasset" 83
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Texture/T_Ice_Mesh02b.uasset" 84
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/ICE/M_Ice_Solid_01_INST.uasset" 85
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Ice/T_Sparkle_Flakes.uasset" 86
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/ICE/M_Snow_01_INST.uasset" 87
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Meshes/ICE/SM_IceWall_TraceMagic.uasset" 88
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Mobile/ICE/combat/P_Buff_ShoutFreeze_02.uasset" 89
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Env/T_Pickup_GoldBag_D.uasset" 90
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Env/T_Pickup_GoldBag_N.uasset" 91
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/M_GoldBag.uasset" 92
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_Treasure_Coin.uasset" 93
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Textures/Gradient/T_SwipeTrail.uasset" 94
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/Env/M_Treasure_Gold_Add_2sided.uasset" 95
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_TreasureChest_Gold.uasset" 96
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Treasure/Chest/P_TreasureChest_Open_Mesh.uasset" 97
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_ClothTarps_01_D.uasset" 98
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_ClothTarps_01_M.uasset" 99
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_ClothTarps_01_N.uasset" 100
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_ClothTarps_01.uasset" 101
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_ClothTarps_01.uasset" 102
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_D.uasset" 103
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_N.uasset" 104
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart.uasset" 105
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Cart_Intact.uasset" 106
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Hay_D.uasset" 107
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Hay_M.uasset" 108
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Hay_N.uasset" 109
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Hay.uasset" 110
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Hay.uasset" 111
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Villa_Pillar_1_D.uasset" 112
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Villa_Pillar_1_D_NRM.uasset" 113
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Villa_Pillar_1.uasset" 114
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Doorframe_Column_01.uasset" 115
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Pillar_1.uasset" 116
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Pillar_2.uasset" 117
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_HardWood_Floor_D.uasset" 118
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_HardWood_Floor_D_NRM.uasset" 119
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_HardWood_Floor.uasset" 120
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_ShantyBeams_Wall_01.uasset" 121
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_FloorsTrim_D.uasset" 122
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_FloorsTrim_N.uasset" 123
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/SurfaceTypes/PhysicalMaterial_Stone.uasset" 124
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_FloorTrims.uasset" 125
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimFlat02.uasset" 126
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Snow_Mountain_Clouds.uasset" 127
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_D.uasset" 128
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_M.uasset" 129
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_N.uasset" 130
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars.uasset" 131
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_ExtCastle_StoneWall_01_D.uasset" 132
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_ExtCastle_StoneWall_01_N.uasset" 133
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall.uasset" 134
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Wall_Curved_01.uasset" 135
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Cliff01_D.uasset" 136
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Cliff01_N.uasset" 137
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Cliff01.uasset" 138
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Cliff02_D.uasset" 139
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Cliff02_N.uasset" 140
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Cliff02.uasset" 141
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Dirt_D.uasset" 142
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Dirt_N.uasset" 143
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Dirt.uasset" 144
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Grass01_D.uasset" 145
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Grass01_N.uasset" 146
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Grass01.uasset" 147
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Grass02_D.uasset" 148
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Grass02_N.uasset" 149
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Grass02.uasset" 150
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Path01_D.uasset" 151
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Path01_N.uasset" 152
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Path01.uasset" 153
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Road01_D.uasset" 154
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Road01_N.uasset" 155
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Road01.uasset" 156
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Road02_D.uasset" 157
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Road02_N.uasset" 158
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Road02.uasset" 159
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/SurfaceTypes/PhysicalMaterial_Land.uasset" 160
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Terrain_Blend.uasset" 161
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/ElvenRuins_sharedassets/Dirt_LayerInfo.uasset" 162
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/ElvenRuins_sharedassets/Grass_LayerInfo.uasset" 163
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/ElvenRuins_sharedassets/Path_LayerInfo.uasset" 164
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/ElvenRuins_sharedassets/Road_LayerInfo.uasset" 165
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 166
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 167
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 168
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 169
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 170
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 171
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/FuelPickup_Pyramid001.uasset" 172
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/FuelPickup_Pyramid002.uasset" 173
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Heads_Up_Display.uasset" 174
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/HealthPickup_Box001.uasset" 175
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/HealthPickup_Box002.uasset" 176
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Key_diffuse.uasset" 177
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Key_mesh.uasset" 178
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/MainBGOverlay.uasset" 179
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Main_Menu.uasset" 180
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/RedBGOverlay.uasset" 181
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/RedVignette.uasset" 182
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/RETURN_TO_MENU.uasset" 183
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Ability_Overlays/GRAVITY_BOOST.uasset" 184
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Ability_Overlays/SLOW_MOTION.uasset" 185
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Ability_Overlays/SPEED_BOOST.uasset" 186
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Basic_Wall.uasset" 187
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Pillar_50x500.uasset" 188
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_400x300.uasset" 189
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_400x400.uasset" 190
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_500x500.uasset" 191
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 192
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 193
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Collapse01.uasset" 194
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Collapse02.uasset" 195
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Explosion01.uasset" 196
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Explosion02.uasset" 197
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Fire01.uasset" 198
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Fire_Sparks01.uasset" 199
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Light01.uasset" 200
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Light01_Cue.uasset" 201
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Light02.uasset" 202
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Light02_Cue.uasset" 203
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Smoke01.uasset" 204
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Birds01.uasset" 205
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Music01.uasset" 206
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Wind05.uasset" 207
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Wind06.uasset" 208
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Steam01.uasset" 209
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Explosion_Cue.uasset" 210
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Burst_M.uasset" 211
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Burst.uasset" 212
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 213
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 214
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 215
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 216
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 217
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 218
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 219
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 220
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Explosion.uasset" 221
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 222
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 223
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 224
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Bush_D.uasset" 225
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Bush_N.uasset" 226
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Bush.uasset" 227
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Bush.uasset" 228
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Chair_M.uasset" 229
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Chair_N.uasset" 230
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Chair.uasset" 231
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Couch.uasset" 232
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Glass.uasset" 233
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Door_M.uasset" 234
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Door_N.uasset" 235
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Door.uasset" 236
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Door.uasset" 237
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 238
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 239
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 240
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Shelf_M.uasset" 241
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Shelf_N.uasset" 242
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Shelf.uasset" 243
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Shelf.uasset" 244
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Basic_Floor.uasset" 245
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Stairs.uasset" 246
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Cone.uasset" 247
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 248
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 249
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Pipe.uasset" 250
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 251
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 252
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Plane.uasset" 253
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Torus.uasset" 254
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Trim.uasset" 255
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 256
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 257
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 258
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Tube.uasset" 259
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 260
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 261
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 262
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 263
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 264
+"../../../Engine/Content/BasicShapes/Cone.uasset" 265
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 266
+"../../../Engine/Content/BasicShapes/Plane.uasset" 267
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 268
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 269
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 270
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 271
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 272
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 273
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 274
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 275
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 276
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 277
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 278
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 279
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 280
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 281
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 282
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 283
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 284
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 285
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 286
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 287
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 288
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 289
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 290
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 291
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 292
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 293
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 294
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 295
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 296
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 297
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 298
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 299
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 300
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 301
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 302
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 303
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 304
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 305
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 306
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 307
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 308
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 309
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 310
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 311
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 312
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 313
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 314
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 315
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 316
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 317
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 318
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 319
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 320
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 321
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 322
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 323
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 324
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 325
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 326
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 327
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 328
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 329
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 330
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 331
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 332
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 333
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 334
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 335
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 336
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 337
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 338
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 339
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 340
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 341
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 342
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 343
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 344
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 345
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 346
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 347
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 348
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 349
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 350
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 351
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 352
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 353
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 354
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 355
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 356
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 357
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 358
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 359
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 360
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 361
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 362
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 363
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 364
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 365
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 366
+"../../../Engine/Content/EngineSounds/Master.uasset" 367
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 368
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 369
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 370
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 371
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 372
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 373
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 374
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 375
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 376
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 377
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 378
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 379
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 380
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 381
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 382
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 383
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 384
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 385
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 386
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 387
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 388
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 389
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 390
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 391
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 392
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 393
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 394
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 395
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 396
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 397
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 398
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 399
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 400
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 401
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 402
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 403
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 404
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 405
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 406
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 407
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 408
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 409
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 410
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 411
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 412
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 413
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 414
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 415
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 416
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 417
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 418
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 419
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 420
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 421
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 422
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 423
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 424
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Hit_React_1.uasset" 425
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Hit_React_2.uasset" 426
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Hit_React_3.uasset" 427
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 428
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 429
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 430
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 431
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 432
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 433
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 434
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 435
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 436
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 437
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 438
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 439
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 440
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 441
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 442
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 443
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 444
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 445
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 446
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 447
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 448
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 449
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 450
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 451
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 452
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 453
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 454
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 455
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 456
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 457
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 458
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 459
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 460
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 461
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 462
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 463
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 464
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Showcase.umap" 465
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 466
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 467
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 468
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 469
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Animations/ThirdPersonRun.uasset" 470
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 471
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 472
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 473
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Death_1.uasset" 474
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 475
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Jump_From_Jog.uasset" 476
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Jump_From_Stand.uasset" 477
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 478
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 479
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 480
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 481
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/BS_CrouchWalk.uasset" 482
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 483
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 484
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 485
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 486
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/BS_Jog.uasset" 487
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Ue4ASP_Character.uasset" 488
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/UE4ASP_HeroTPP_AnimBlueprint.uasset" 489
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/AnimStarterPack/Death_2.uasset" 490
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/ABGravity.uasset" 491
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/ABSlowMotion.uasset" 492
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/ABWaterBoots.uasset" 493
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Coin_Pic.uasset" 494
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Direfuel.uasset" 495
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/FuelArrow.uasset" 496
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/FuelOverlay.uasset" 497
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/HealthBar.uasset" 498
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/HUD_Background.uasset" 499
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/HUD.uasset" 500
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/SideScrollerCharacter.uasset" 501
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 502
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 503
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 504
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 505
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 506
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 507
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 508
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 509
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 510
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 511
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 512
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 513
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 514
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 515
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 516
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 517
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/AICharacter.uasset" 518
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 519
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 520
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/BP_FuelFillup.uasset" 521
+"../../../Engine/Content/BasicShapes/Cube.uasset" 522
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/BP_Health_Pickup.uasset" 523
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Coin_Diffuse.uasset" 524
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/CoinMat.uasset" 525
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Coin_Mesh.uasset" 526
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/CoinPickup.uasset" 527
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 528
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 529
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_RockMesh_M.uasset" 530
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_RockMesh_N.uasset" 531
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Rock.uasset" 532
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Rock.uasset" 533
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/ExplodingRock.uasset" 534
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 535
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 536
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 537
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Water_N.uasset" 538
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 539
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 540
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Fire.uasset" 541
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/FireTrap.uasset" 542
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_WoodenBarrel_01_D.uasset" 543
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_WoodenBarrel_01_N.uasset" 544
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_WoodenBarrel_01.uasset" 545
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_WoodenBarrel_Intact.uasset" 546
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/HeadKnocker_BP.uasset" 547
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Steam_Lit.uasset" 548
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/IceHeal.uasset" 549
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Basic_Locomotion_Pack/left_strafe_walking.uasset" 550
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Basic_Locomotion_Pack/right_strafe_walking.uasset" 551
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Basic_Locomotion_Pack/walking.uasset" 552
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Idle__1_.uasset" 553
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Boy_BS.uasset" 554
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Boy_ABP.uasset" 555
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Walking_fbm/Ch09_1001_Diffuse.uasset" 556
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Walking_fbm/Ch09_1001_Glossiness.uasset" 557
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Walking_fbm/Ch09_1001_Normal.uasset" 558
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Walking_fbm/Ch09_1001_Specular.uasset" 559
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Walking_fbm/NewMaterial.uasset" 560
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Walking_PhysicsAsset.uasset" 561
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/Walking.uasset" 562
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/BoyCharacter/SideScrollerCharacter1.uasset" 563
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/SideScrollerGameMode.uasset" 564
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Box_Brush_Blueprint.uasset" 565
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Maps/Level1_BuiltData.uasset" 566
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Maps/Background_Sprite2.uasset" 567
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/Geometry/Meshes/TemplateFloor.uasset" 568
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Maps/Level1.umap" 569
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/ExitGameBtn.uasset" 570
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/GetStartedBtn.uasset" 571
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Level1.uasset" 572
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Level2.uasset" 573
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/Level3.uasset" 574
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/LevelSelectBtn.uasset" 575
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/MainMenu.uasset" 576
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/SidescrollerAssets/ReturnBtn.uasset" 577
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Blueprints/MainMenuWBP.uasset" 578
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/CHARACTERS/SideScrollerCharacterBPBP/Maps/MainMenuMap.umap" 579
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Env_Ice_Ground_Rock_4_N.uasset" 580
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Env_Snow_D.uasset" 581
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Ice_Ground_Rock01_N.uasset" 582
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Snow_Ice_Generic.uasset" 583
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Snow_Ice_Generic_NRM.uasset" 584
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_Ocean.uasset" 585
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Terrain_Blend_Mobile.uasset" 586
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/M_PostSharpen.uasset" 587
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Effects/FX_Materials/M_PostSharpen_Inst.uasset" 588
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_Terrain_Floors01_D.uasset" 589
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_Terrain_Floors01_N.uasset" 590
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block.uasset" 591
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block_Inst.uasset" 592
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_FloorTrims_Inst.uasset" 593
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_02_D.uasset" 594
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_02_N.uasset" 595
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars02.uasset" 596
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars02_Inst.uasset" 597
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_03_D.uasset" 598
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_03_N.uasset" 599
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars03.uasset" 600
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars03_Inst.uasset" 601
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars_Inst.uasset" 602
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall_Inst.uasset" 603
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Textures/T_Plains_Angel_Statue_D.uasset" 604
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Textures/T_Plains_Angel_Statue_N.uasset" 605
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Materials/M_Plains_Angel_Statue.uasset" 606
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Materials/M_Plains_Angel_Statue_Inst.uasset" 607
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Textures/T_Plains_Man_Statue_D.uasset" 608
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Textures/T_Plains_Man_Statue_N.uasset" 609
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Materials/M_Plains_Man_Statue.uasset" 610
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Materials/M_Plains_Man_Statue_Inst.uasset" 611
+"../../../Engine/Content/MapTemplates/lut/LUT_Morning.uasset" 612
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 613
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Breakables/Textures/T_Env_Breakables_Breakables_D.uasset" 614
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Breakables/Textures/T_Env_Breakables_Breakables_N.uasset" 615
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Breakables/Textures/T_Env_Breakables_Breakables_R.uasset" 616
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Breakables/Textures/T_Env_Breakables_BreakablesSnow_M.uasset" 617
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Breakables/Materials/M_Breakables_Barrels.uasset" 618
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.uasset" 619
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1_destroyed.uasset" 620
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Boxes.uasset" 621
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_BoxesBITS.uasset" 622
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Objects/SM_Env_Breakables_GroupLg.uasset" 623
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 624
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Textures/T_Env_Ice_Deco2_Flag_D.uasset" 625
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Materials/M_Env_Ice_Deco2_Flags.uasset" 626
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag_Skeleton.uasset" 627
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag.uasset" 628
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.uasset" 629
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_Cherry_Tree_Flowers_D.uasset" 630
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_Cherry_Tree_Flowers_N.uasset" 631
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Materials/M_Cherry_Tree.uasset" 632
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_TreeBase1_D.uasset" 633
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_TreeBase1_N.uasset" 634
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Materials/M_TreeBark.uasset" 635
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_Cherry_Tree.uasset" 636
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_GroundCover_Leaf01_D.uasset" 637
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_GroundCover_Leaf01_N.uasset" 638
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Materials/M_GroundCover_LEafy.uasset" 639
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_GroundCover_Leafy01.uasset" 640
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_GroundCover_Leafy03.uasset" 641
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_BranchTrunk_D.uasset" 642
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Materials/M_LeavesPile.uasset" 643
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_LeavePiles_01.uasset" 644
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_LeavePiles_02.uasset" 645
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_Rootcluster_A.uasset" 646
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_Plants_D.uasset" 647
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_Plants_N.uasset" 648
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/Materials/M_Exo_Generic_Plants.uasset" 649
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_SmallTree02.uasset" 650
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Cart_Damaged.uasset" 651
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Crate_Open_D.uasset" 652
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Crate_Open_N.uasset" 653
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Crate_Open.uasset" 654
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Crate_Open_Damaged.uasset" 655
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Crate_Open_Destroyed.uasset" 656
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Crate_Open_Intact.uasset" 657
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Snowy_Pine_Low.uasset" 658
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Snowy_Pine_Low_N.uasset" 659
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Pine_Low.uasset" 660
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Pine_Low_Cluster.uasset" 661
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_WoodenBarrel_Damaged.uasset" 662
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_WoodenBarrel_Destroyed.uasset" 663
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_D.uasset" 664
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_M.uasset" 665
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_N.uasset" 666
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Decos_Door.uasset" 667
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door02.uasset" 668
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door04.uasset" 669
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_Frame_D.uasset" 670
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_Frame_D_NRM.uasset" 671
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Decos_Door_Frame.uasset" 672
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame02.uasset" 673
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Pew_D.uasset" 674
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Pew_N.uasset" 675
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Pew.uasset" 676
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Pew.uasset" 677
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_ShantyBeams_Single_01.uasset" 678
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/Textures/T_Env_Plains_Mountain01_D.uasset" 679
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/Textures/T_Env_Plains_Mountain01_N.uasset" 680
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/Materials/M_Env_Plains_Mountain01.uasset" 681
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/StaticMesh/SM_Env_Plains_Mountain_01.uasset" 682
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Env_Plains_Floors_Rubble05.uasset" 683
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block01.uasset" 684
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block02.uasset" 685
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block02_Broken.uasset" 686
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block03.uasset" 687
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block04.uasset" 688
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Brick01.uasset" 689
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat01.uasset" 690
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat02.uasset" 691
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble.uasset" 692
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble02.uasset" 693
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble03.uasset" 694
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble04.uasset" 695
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble05.uasset" 696
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimBlock01.uasset" 697
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign03.uasset" 698
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesignRubble01.uasset" 699
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_FloorsBeams_D.uasset" 700
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_FloorsBeams_N.uasset" 701
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_PLains_Scrap_Bridge.uasset" 702
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge01.uasset" 703
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge02.uasset" 704
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail03.uasset" 705
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail04.uasset" 706
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Textures/T_Plains_Fern01_D.uasset" 707
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Textures/T_Plains_Fern01_N.uasset" 708
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_PLains_Fern01.uasset" 709
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern01.uasset" 710
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern02.uasset" 711
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern03.uasset" 712
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern04.uasset" 713
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers01.uasset" 714
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers03.uasset" 715
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Grass01.uasset" 716
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Textures/T_Plains_Tree01_D.uasset" 717
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Textures/T_Plains_Tree01_N.uasset" 718
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_Plains_Tree_Stump01.uasset" 719
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree01.uasset" 720
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree_Branch01.uasset" 721
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree_Branch02.uasset" 722
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree_Stump01.uasset" 723
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Vine02.uasset" 724
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock01_D.uasset" 725
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock01_N.uasset" 726
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_LargeRock.uasset" 727
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock01.uasset" 728
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock02.uasset" 729
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock03.uasset" 730
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_Pile01.uasset" 731
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD.uasset" 732
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD2.uasset" 733
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Ground01_D.uasset" 734
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Ground01_N.uasset" 735
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_GroundBrick.uasset" 736
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD4.uasset" 737
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Cliff001.uasset" 738
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Cliff01.uasset" 739
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_Cliff1.uasset" 740
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD5.uasset" 741
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock02_D.uasset" 742
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock02_N.uasset" 743
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_SmallRock.uasset" 744
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_SmallRock01.uasset" 745
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_WaterPlain.uasset" 746
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Buttress_01.uasset" 747
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Buttress_02.uasset" 748
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Bridge_Wall_01.uasset" 749
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Circle_Railing_01.uasset" 750
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Fountain_01.uasset" 751
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Railing_Curved.uasset" 752
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Railing_Curved_45.uasset" 753
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Stairs_01.uasset" 754
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_01.uasset" 755
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_02.uasset" 756
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_03.uasset" 757
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Castle_Wroughtlron_D.uasset" 758
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Castle_Wroughtlron_N.uasset" 759
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_PLains_Castle_WroughtIron.uasset" 760
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_01.uasset" 761
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_01_Broken.uasset" 762
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_02_Broken.uasset" 763
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Ruin_01.uasset" 764
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Ruin_03.uasset" 765
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleDoorArch_01.uasset" 766
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_01.uasset" 767
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_Ruin_01.uasset" 768
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_Ruin_02.uasset" 769
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Curved_Ruin_01.uasset" 770
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_01.uasset" 771
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_02.uasset" 772
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_03.uasset" 773
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_04.uasset" 774
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Support_01.uasset" 775
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_01.uasset" 776
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_Broken_01.uasset" 777
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_Broken_02.uasset" 778
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_Broken_03.uasset" 779
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Mid_01.uasset" 780
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Small_01.uasset" 781
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Small_Broken_01.uasset" 782
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Small_Broken_02.uasset" 783
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD01.uasset" 784
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD02.uasset" 785
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD03.uasset" 786
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Cage_D.uasset" 787
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Cage_N.uasset" 788
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Cage.uasset" 789
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruins_Brazier_01.uasset" 790
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruins_Cage_Broken_02.uasset" 791
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortColumn_01.uasset" 792
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortWall_Straight_01.uasset" 793
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Wall_Railing_01.uasset" 794
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Wall_Straight_01.uasset" 795
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Angel_Statue_01_nobase.uasset" 796
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Angel_Statue_01_nobase_torch.uasset" 797
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Man_Statue_01.uasset" 798
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Man_Statue_01_torch.uasset" 799
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/ElvenRuins_Terrain.uasset" 800
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap" 801
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 802
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 803
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/Architecture/T_MeterGrid_01_M.uasset" 804
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/Architecture/M_CycWall_01.uasset" 805
+"../../../Engine/Content/MapTemplates/lut/LUT_Daytime.uasset" 806
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo__Arch_1.uasset" 807
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_1.uasset" 808
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_6.uasset" 809
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_7.uasset" 810
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_8.uasset" 811
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Tile_Floor_Broken_D.uasset" 812
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Tile_Floor_Broken_D_NRM.uasset" 813
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Tile_Floor_Broken_Tex_A.uasset" 814
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Broken_A.uasset" 815
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_BROKEN_B.uasset" 816
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_BROKEN_C.uasset" 817
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_BROKEN_D.uasset" 818
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor.uasset" 819
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor_A.uasset" 820
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor_Broken.uasset" 821
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor_D.uasset" 822
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Cobweb03_D.uasset" 823
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Exo_CobWeb01_NoMove.uasset" 824
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/Sm_Exo_CobWeb01.uasset" 825
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb02.uasset" 826
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb03.uasset" 827
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb04.uasset" 828
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb05.uasset" 829
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Cover_1.uasset" 830
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Cover_Curve_1.uasset" 831
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Deco_2.uasset" 832
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door01.uasset" 833
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door03.uasset" 834
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame01.uasset" 835
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame03.uasset" 836
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame04.uasset" 837
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame_Column.uasset" 838
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_BSP_Stucco02_D.uasset" 839
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_BSP_Stucco02_N.uasset" 840
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Decos_BSP_Stucco02.uasset" 841
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_BSP_Stucco03_D.uasset" 842
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Decos_BSP_Stucco03.uasset" 843
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Set01_Cover01.uasset" 844
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Facade01_D.uasset" 845
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Facade01_D_NRM.uasset" 846
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Decos_Facade01.uasset" 847
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Villa_Plaster_1_D.uasset" 848
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Villa_Plaster_1_D_NRM.uasset" 849
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Villa_Plaster_1.uasset" 850
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Set01_Facade02.uasset" 851
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Set01_Facade03.uasset" 852
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_destroyed_floor_wood.uasset" 853
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_destroyed_floormissing.uasset" 854
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_destroyed_floormissing_A.uasset" 855
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Doorframe_02.uasset" 856
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Doorframe_03.uasset" 857
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Flooded_ConcRail1_D.uasset" 858
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Flooded_ConcRail1_D_NRM.uasset" 859
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/m_Flooded_ConcRail1.uasset" 860
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_128.uasset" 861
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_192.uasset" 862
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_CRV1.uasset" 863
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_CRV2.uasset" 864
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_CRV3.uasset" 865
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_NoSides.uasset" 866
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_STR1.uasset" 867
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_STR2.uasset" 868
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_floor_wood_floorboard.uasset" 869
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_floor_wood_plank_A.uasset" 870
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_floor_wood_plank_D.uasset" 871
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01.uasset" 872
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_Chained.uasset" 873
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_ChainOnly.uasset" 874
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_Framed.uasset" 875
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_Group.uasset" 876
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_WoodPlanks01.uasset" 877
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_WoodPlanks02.uasset" 878
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Env_Plains_Scrap_Bridge_2.uasset" 879
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block05.uasset" 880
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block06.uasset" 881
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat03.uasset" 882
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim01.uasset" 883
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim02.uasset" 884
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim02_Rev.uasset" 885
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim03.uasset" 886
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign01.uasset" 887
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign02.uasset" 888
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign02a.uasset" 889
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign04.uasset" 890
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign05.uasset" 891
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimFlat01.uasset" 892
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge03.uasset" 893
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge04.uasset" 894
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge_2.uasset" 895
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail01.uasset" 896
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail02.uasset" 897
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers02.uasset" 898
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers04.uasset" 899
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Vine01.uasset" 900
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_GroundBrick01.uasset" 901
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_CliffEdge.uasset" 902
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_CliffEdgeSm.uasset" 903
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ArchArch.uasset" 904
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Cage_01.uasset" 905
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Fountain_02.uasset" 906
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_01.uasset" 907
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_02.uasset" 908
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Torch_01.uasset" 909
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Ruin_02_Broken.uasset" 910
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_Ruin_02_Supports.uasset" 911
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Support_02.uasset" 912
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Support_03.uasset" 913
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Colunnade_Mid_01.uasset" 914
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_FloorStones_D.uasset" 915
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_FloorStones_N.uasset" 916
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_PLains_FloorStone.uasset" 917
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Floor_01.uasset" 918
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruins_Cage_Broken_01.uasset" 919
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortColumn_Half_01.uasset" 920
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_StoneBlock_01.uasset" 921
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Angel_Statue_01.uasset" 922
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Textures/T_Plains_Ruins_DemonDoor_D.uasset" 923
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Textures/T_Plains_Ruins_DemonDoor_N.uasset" 924
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Materials/M_Plains_Castle_Demon.uasset" 925
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Castle_DemonDoor_01.uasset" 926
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Castle_DemonDoor_Half.uasset" 927
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/Architecture/M_1Meter_01.uasset" 928
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/Architecture/SM_1Meter_01.uasset" 929
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/Architecture/M_CycRoom_01.uasset" 930
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/Architecture/SM_CycRoom_01.uasset" 931
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 932
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/InfinityBladeGrassLands/Maps/Overview.umap" 933
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 934
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 935
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 936
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 937
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 938
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 939
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 940
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 941
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 942
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 943
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 944
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 945
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 946
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_AssetPlatform.uasset" 947
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 948
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 949
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 950
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 951
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 952
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 953
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 954
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 955
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/Advanced_Lighting.umap" 956
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 957
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_MacroVariation.uasset" 958
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 959
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 960
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 961
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 962
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 963
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Copper.uasset" 964
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Statue_M.uasset" 965
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Statue_N.uasset" 966
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 967
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Floor_400x400.uasset" 968
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 969
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Chair.uasset" 970
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Statue.uasset" 971
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Statue.uasset" 972
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_TableRound_M.uasset" 973
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_TableRound_N.uasset" 974
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_TableRound.uasset" 975
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_TableRound.uasset" 976
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/Minimal_Default.umap" 977
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Fire01_Cue.uasset" 978
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 979
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Smoke01_Cue.uasset" 980
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Smoke.uasset" 981
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 982
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 983
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Spark_Core.uasset" 984
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Spark.uasset" 985
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Sparks.uasset" 986
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 987
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Steam01_Cue.uasset" 988
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 989
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Lamp_M.uasset" 990
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Lamp_N.uasset" 991
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Lamp.uasset" 992
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 993
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 994
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 995
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 996
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 997
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 998
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 999
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1000
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1001
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1002
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1003
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1004
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1005
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1006
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1007
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1008
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1009
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1010
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1011
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1012
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1013
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1014
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1015
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1016
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1017
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1018
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1019
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1020
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1021
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1022
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1023
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1024
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1025
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1026
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1027
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1028
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1029
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1030
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1031
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1032
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1033
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1034
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1035
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1036
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1037
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1038
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1039
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1040
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1041
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1042
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1043
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1044
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1045
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1046
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1047
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1048
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1049
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1050
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1051
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1052
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1053
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1054
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1055
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1056
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1057
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1058
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1059
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1060
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1061
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1062
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1063
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1064
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1065
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1066
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1067
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1068
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1069
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1070
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1071
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1072
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1073
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1074
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1075
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1076
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1077
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1078
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1079
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1080
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1081
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1082
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1083
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1084
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1085
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1086
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1087
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Water_Lake.uasset" 1088
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Water_M.uasset" 1089
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1090
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1091
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1092
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1093
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1094
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1095
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1096
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1097
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1098
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1099
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1100
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1101
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1102
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1103
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1104
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1105
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_400x200.uasset" 1106
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1107
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1108
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Collapse_Cue.uasset" 1109
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1110
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1111
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1112
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1113
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/MaterialSphere.uasset" 1114
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Frame_M.uasset" 1115
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Frame_N.uasset" 1116
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Frame.uasset" 1117
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_CornerFrame.uasset" 1118
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_DoorFrame.uasset" 1119
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_GlassWindow.uasset" 1120
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_PillarFrame.uasset" 1121
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1122
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_WindowFrame.uasset" 1123
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Cube.uasset" 1124
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1125
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1126
+"../../../../../../Users/Anthonyh/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/StarterMap.umap" 1127
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1128
+"../../../Engine/Content/Maps/Entry.umap" 1129
